@@ -1,3 +1,3 @@
-print(...)  # допишите код
-print(...)  # допишите код
-print(...)  # допишите код
+print('Hello, World!')  # Одинарные кавычки
+print("Hello, World!")  # Двойные кавычки
+print('''Hello, World!''')  # Тройные кавычки
