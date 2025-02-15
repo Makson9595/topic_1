@@ -1,8 +1,8 @@
-string_literal = ...  # здесь Ваш код
-integer_literal = ...  # здесь Ваш код
-float_literal = ...  # здесь Ваш код
-boolean_literal = ...  # здесь Ваш код
-none_type_literal = ...  # здесь Ваш код
+string_literal = 'Я изучаю Питон'
+integer_literal = 10
+float_literal = 5.5
+boolean_literal = True
+none_type_literal = None
 
 print(string_literal)
 print(integer_literal)
